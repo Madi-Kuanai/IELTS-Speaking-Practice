@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "997661656528",
+    "project_id": "speaking-practice-433118",
+    "storage_bucket": "speaking-practice-433118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997661656528:android:ced4533dc82899e3aee5d5",
+        "android_client_info": {
+          "package_name": "com.mk.ielts_speaking_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997661656528-51q8h7k354ls1ofmgiilcu2nlofq6f2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mk.ielts_speaking_practice",
+            "certificate_hash": "eeb8ab7363f84e95420aeb5adbeb4e2fc181efd8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGMtGLRG-AYw616NVDgZ0AL9iSOCOueVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

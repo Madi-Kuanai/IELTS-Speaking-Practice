@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ielts_speaking_practice</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="default_web_client_id">997661656528-51q8h7k354ls1ofmgiilcu2nlofq6f2s.apps.googleusercontent.com</string>
+    <string name="title_activity_speaking_screen">SpeakingScreen</string>
+    <string name="title_activity_cue_card">CueCardActivity</string>
+</resources>
