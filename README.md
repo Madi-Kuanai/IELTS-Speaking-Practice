@@ -15,12 +15,10 @@
    git clone https://github.com/Madi-Kuanai/IELTS-Speaking-Practice.git
 
 2. Перейдите в директорию проекта:
+   ```bash
    cd IELTS-Speaking-Practice
 
-3. Установите зависимости с помощью Gradle:
+4. Установите зависимости с помощью Gradle:
+    ```bash
    ./gradlew build
-
-
-Этот файл README.md предоставляет общее описание вашего проекта, инструкции по установке и использованию, а также информацию о том, как внести вклад и лицензию проекта.
-::contentReference[oaicite:0]{index=0}
  
